@@ -1,0 +1,13 @@
+name: TreeHeightApp
+title: TreeHeightApp
+username:
+account: amaehr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2659390
+bundleId: 3500492
+url: https://amaehr.shinyapps.io/TreeHeightApp/
+when: 1597126929.36241
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store|data/BirthDK.csv|data/BirthsInDK.csv|Source Data/.DS_Store|Source Data/202071785627289946992FOD32313057361.csv
