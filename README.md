@@ -1,5 +1,5 @@
 # TreeHeightApp
-Course Project for Course 9 'Developing Data Products' of the Data Science Specialization on Coursera.
+Course Project for Course 9 'Developing Data Products' of the Data Science Specialization on Coursera. To see the live app visit: https://amaehr.shinyapps.io/TreeHeightApp/
 
 ### Assignment Description
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application. 
